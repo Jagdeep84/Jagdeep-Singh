@@ -1,0 +1,9 @@
+H:\web\calculator\CalculatorLibrary1\bin\Debug\netstandard2.0\CalculatorLibrary1.deps.json
+H:\web\calculator\CalculatorLibrary1\bin\Debug\netstandard2.0\CalculatorLibrary1.dll
+H:\web\calculator\CalculatorLibrary1\bin\Debug\netstandard2.0\CalculatorLibrary1.pdb
+H:\web\calculator\CalculatorLibrary1\obj\Debug\netstandard2.0\CalculatorLibrary1.AssemblyInfoInputs.cache
+H:\web\calculator\CalculatorLibrary1\obj\Debug\netstandard2.0\CalculatorLibrary1.AssemblyInfo.cs
+H:\web\calculator\CalculatorLibrary1\obj\Debug\netstandard2.0\CalculatorLibrary1.dll
+H:\web\calculator\CalculatorLibrary1\obj\Debug\netstandard2.0\CalculatorLibrary1.pdb
+H:\web\calculator\CalculatorLibrary1\obj\Debug\netstandard2.0\CalculatorLibrary1.csprojAssemblyReference.cache
+H:\web\calculator\CalculatorLibrary1\obj\Debug\netstandard2.0\CalculatorLibrary1.csproj.CoreCompileInputs.cache

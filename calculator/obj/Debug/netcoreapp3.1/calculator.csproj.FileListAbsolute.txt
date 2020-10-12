@@ -1,0 +1,30 @@
+H:\visual studio\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+H:\visual studio\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+H:\visual studio\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+H:\visual studio\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+H:\visual studio\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+H:\visual studio\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+H:\visual studio\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\CalculatorLibrary1.dll
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\CalculatorLibrary1.pdb
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CopyComplete
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+H:\web\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
+H:\web\calculator\calculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
